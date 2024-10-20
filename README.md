@@ -5,6 +5,6 @@ Interactive visualization.
 Education Overview.
 Data model flexibility: The data is structured to allow for easy addition of other categories and filters, such as geographic region or age group.
 Custom visualizations: the project uses advanced visualizations, such as Chiclet Slicer and Donut Chart, to make interacting with the data more intuitive.
-Homepage.
+Homepage: the project includes a clear introduction page that summarizes the project goal and provides context for all visualizations.
 ## Using
 This project is ideal for government, researchers, or any organization that wants to better understand the educational structure of the Czech population. The visualizations make it easy to identify trends and demographic differences in educational attainment.
